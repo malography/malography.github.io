@@ -20,8 +20,8 @@
       <br>
       <p>We can use this example to create some saving and loading leaderstats which, if you never played, will give you 200 coins!</p>
 
-      <pre>
-        <code>
+      <code>
+        <pre>
           local V1PER = require(game.ReplicatedStorage.V1PER)
 
           game.Players.PlayerAdded:Connect(function(Player)
@@ -39,7 +39,7 @@
           game.Players.PlayerRemoving:Connect(function(Player)
           	V1PER.DataStoreResource.DataStore.SaveData(Player)
           end)
-        </code>
-      </pre>
+        </pre>
+      </code>
     </body>
 </html>
