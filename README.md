@@ -7,7 +7,7 @@
 
 V1PER is a module created for developers, to make things much easier- Including built-in datastore systems, banning systems, admin, pre-done code, and much more!
 
-## Datastores
+# Datastores
 _(Note: You need to enable API Services in your game settings to make this work)_
 
 Datastores can be used in leaderstats to save data for players.
@@ -57,14 +57,14 @@ end)
 
 There, with this we can now save our diamonds, and if we never played, we will have the default ammount; 200
 
-## Admin
+# Admin
 
 _(This is just a placeholder for when it comes out)_
 
-## Banning System
+# Banning System
 
 _(This is just a placeholder for when it comes out)_
 
-## Pre-done code
+# Pre-done code
 
 _(This is just a placeholder for when it comes out)_
