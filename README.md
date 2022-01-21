@@ -1,5 +1,7 @@
 # V1PER Documentation page
 
+V1PER; https://web.roblox.com/library/8547614595/V1PER-BETA
+
 **[!] Any sort of resources used in this are all made by me.**
 
 
@@ -63,7 +65,21 @@ _(This is just a placeholder for when it comes out)_
 
 # Banning System
 
-_(This is just a placeholder for when it comes out)_
+Create a ServerScript in ServerScriptService and add this code;
+
+```
+local V1PER = require(V1PER.Path)
+
+game.Players.PlayerAdded:Connect(V1PER.BanningSystem.ConnectPlayerAdded)
+```
+
+and you can use this command in the module to add a player to the banning list:
+
+```
+local V1PER = require(V1PER.Path)
+
+V1PER.BanningSystem.BanUser(ID, ReasonForBan)
+```
 
 # Pre-done code
 
