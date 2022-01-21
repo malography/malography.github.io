@@ -1,6 +1,6 @@
 # V1PER Documentation page
 
-V1PER; https://web.roblox.com/library/8547614595/V1PER-BETA
+V1PER; https://www.roblox.com/library/8547614595/V1PER-BETA
 
 **[!] Any sort of resources used in this are all made by me.**
 
